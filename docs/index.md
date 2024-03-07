@@ -18,4 +18,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Docs
 
-::: template_workshop
+::: new_template_workshop
